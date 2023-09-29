@@ -15,5 +15,5 @@ const Videos = ({ videos, direction }) => {
     </Stack>
   );
 }
-trescsdcs
+tres
 export default Videos;
