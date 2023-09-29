@@ -15,5 +15,5 @@ const Videos = ({ videos, direction }) => {
     </Stack>
   );
 }
-tres
+
 export default Videos;
